@@ -1,0 +1,61 @@
+body {
+   background-color: rgb(250, 219, 161);
+}
+   .Foto {
+      border: 2.5px solid #000;
+    width: 160px;
+    height: 199px;
+    left: 600px;
+    top: 30px
+    
+   }
+
+   header{
+    background-image: url('../img/pexels-photo-1102915.jpeg');
+    background-size: cover;
+   }
+   h1{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Neucha', cursive;
+    color: black;
+    text-decoration: overline;
+   }
+   
+   .SobreMi {
+      font-family: 'Alumni Sans Collegiate One', sans-serif;
+      font-family: 'Comfortaa', cursive;
+      font-family: 'Neucha', cursive;
+      color: blanchedalmond;
+      font-weight:400;
+   }
+
+   .fa-solid { color: white;}
+
+   h2{
+      background-color: rgb(241, 138, 54);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: white;
+      font-size: 21px;
+   }
+
+   footer{
+      background-color: rgb(241, 138, 54);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: white;
+      font-size: 20px;
+   }
+
+   ul {
+      font-family: Arial, Helvetica, sans-serif;
+   }
+
+   .fa-brands {color: white;}
+   .Arte {
+      width: 300px;
+      height: 199px;
+      left: 600px;
+      top: 30px
+   }
+
+   p {font-family: Arial, Helvetica, sans-serif;}
